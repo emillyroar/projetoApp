@@ -32,6 +32,6 @@ Este é um projeto simples de uma **tela de login** desenvolvida com React Nativ
 
 ## 📸 Preview
 
-![Preview da tela de login](https://raw.githubusercontent.com/emilyroar/projetoApp/main/assets/print-login.png)
+![Preview da tela de login](https://raw.githubusercontent.com/emillyroar/projetoApp/main/assets/print-login.png)
 
 
